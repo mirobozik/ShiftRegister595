@@ -1,0 +1,44 @@
+#######################################
+
+# Syntax Coloring Map for ShiftRegister595
+#######################################
+
+
+#######################################
+
+# Datatypes (KEYWORD1)
+
+#######################################
+
+
+ShiftRegister595	KEYWORD1
+
+
+#######################################
+
+# Methods and Functions (KEYWORD2)
+
+#######################################
+
+
+setup	KEYWORD2
+
+getNumberOfRegisters	KEYWORD2
+
+getNumberOfRegisterPins	KEYWORD2
+
+clear	KEYWORD2
+
+write	KEYWORD2
+
+setPin	KEYWORD2
+
+setPins	KEYWORD2
+
+
+#######################################
+
+# Constants (LITERAL1)
+
+#######################################
+
